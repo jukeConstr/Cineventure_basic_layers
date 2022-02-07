@@ -12,7 +12,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"startlayer",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
@@ -370,7 +370,7 @@
          "name":"Ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -384,7 +384,7 @@
          "name":"Ground_2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -462,7 +462,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":28,
+ "nextlayerid":29,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
